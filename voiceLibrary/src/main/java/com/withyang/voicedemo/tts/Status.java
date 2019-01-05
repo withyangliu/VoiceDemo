@@ -1,7 +1,7 @@
 package com.withyang.voicedemo.tts;
 
 /**播放状态
- * Created by yunwen on 2017/12/20 0020.
+ * Created by cyliu on 2017/12/20 0020.
  */
 
 public class Status {
