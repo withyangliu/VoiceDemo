@@ -6,7 +6,7 @@ import com.withyang.voicedemo.utils.Logger;
 
 
 /**
- * Created by yunwen on 2018/1/11 0011.
+ * Created by cyliu on 2018/1/11 0011.
  */
 public class SimpleSynthesizer extends Synthesizer {
 
