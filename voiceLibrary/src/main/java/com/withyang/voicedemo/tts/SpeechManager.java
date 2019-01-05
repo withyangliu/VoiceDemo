@@ -22,7 +22,7 @@ import com.withyang.voicedemo.utils.ToastUtils;
 
 /**
  * 语音播报
- * Created by yunwen on 2017/12/20 0020.
+ * Created by cyliu on 2017/12/20 0020.
  */
 
 public class SpeechManager {
