@@ -18,7 +18,7 @@ import com.withyang.voicedemo.utils.ToastUtils;
 
 /**
  * 语音听写
- * Created by yunwen on 2017/12/21 0021.
+ * Created by cyliu on 2017/12/21 0021.
  */
 
 public class RecognizerManager {
