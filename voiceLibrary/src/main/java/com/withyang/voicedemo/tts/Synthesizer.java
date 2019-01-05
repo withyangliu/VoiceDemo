@@ -11,7 +11,7 @@ import com.withyang.voicedemo.utils.Logger;
 
 
 /**
- * Created by yunwen on 2017/12/21 0021.
+ * Created by cyliu on 2017/12/21 0021.
  */
 
 public abstract class Synthesizer implements SynthesizerListener, SpeechSynthesizerListener {
