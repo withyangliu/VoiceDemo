@@ -14,7 +14,7 @@ import com.withyang.voicedemo.utils.UnderstanderResultUtil;
 
 
 /**
- * Created by yunwen on 2017/12/21 0021.
+ * Created by cyliu on 2017/12/21 0021.
  */
 
 public abstract class Recognizer implements RecognizerListener, SpeechUnderstanderListener {
